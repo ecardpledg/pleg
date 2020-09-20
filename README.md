@@ -1,2 +1,2 @@
 # pleg
-paiement gateway
+payment gateway
